@@ -1,0 +1,1 @@
+Hello, friends. PHP is awesome and everyone should learn it.
